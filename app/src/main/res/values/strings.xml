@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">SimpleChess</string>
+=======
+    <string name="app_name">ChessGame</string>
+>>>>>>> 7ec7af5525de2e462ce7036ddcc9c9bc7a03a231
 </resources>
