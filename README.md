@@ -6,9 +6,9 @@ Chess Home Screen
 
 Chess Move
 
-<img width="360" alt="chess-move" src="https://github.com/user-attachments/assets/81083f5a-814e-4020-8c7f-61d34a391493">
+<img width="370" alt="chess move" src="https://github.com/user-attachments/assets/81083f5a-814e-4020-8c7f-61d34a391493">
 
 Checkmate
 
-![Checkmate](https://github.com/user-attachments/assets/1a4969a2-1a7e-4e5c-bc91-2d557d2338e0)
+<img width="370" alt="Checkmate" src="https://github.com/user-attachments/assets/1a4969a2-1a7e-4e5c-bc91-2d557d2338e0">
 
