@@ -13,31 +13,3 @@ Checkmate
 
 <img width="370" alt="Checkmate" src="https://github.com/user-attachments/assets/1a4969a2-1a7e-4e5c-bc91-2d557d2338e0">
 
-# Roadmap
-
- Board
- Pieces
- BoardSimulator
- Check
- En passant
- Castling
-   Kingside
-   Queenside
- Pawn Promotion
- Checkmate
-   Winner
- Draw
-   Stalemate
-   Dead Position
-   Threefold Repetition
-   50-Move Rule
- Algebraic Notation
- Double Check
-
-# References
-https://en.wikipedia.org/wiki/Rules_of_chess
-https://en.wikipedia.org/wiki/Promotion_(chess)
-
-
-
-
